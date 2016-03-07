@@ -1,1 +1,4 @@
 Plik zawiera zadania do wykonania:
+-dokoñcz git tutorial
+-dokoñcz git with visual studio
+-ustaw folder jakiegoœ projektu jako git repo
