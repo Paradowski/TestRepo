@@ -1,4 +1,5 @@
 Plik zawiera zadania do wykonania:
--dokoñcz git tutorial
--dokoñcz git with visual studio
--ustaw folder jakiegoœ projektu jako git repo
+-dokoñcz git tutorial 
+-dokoñcz git with visual studio (+)
+-ustaw folder jakiegoœ projektu jako git repo(+)
+-dodaj na koniec umiejêtnoœæ GIT oraz visual studio online do linkedin
